@@ -1,0 +1,17 @@
+This is makeindex, version 2.15 [TeX Live 2015] (kpathsea + Thai support).
+Scanning input file perso.ist...
+!! Input index error (file = perso.ist, line = 1):
+   -- Unknown index keyword heading_prefix".
+!! Input index error (file = perso.ist, line = 2):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = perso.ist, line = 3):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = perso.ist, line = 4):
+   -- Unknown index keyword delim_0"\\hspace.
+!! Input index error (file = perso.ist, line = 5):
+   -- Unknown index keyword delim_1"\\hspace.
+!! Input index error (file = perso.ist, line = 6):
+   -- Unknown index keyword delim_2"\\hspace.
+done (0 entries accepted, 6 rejected).
+Nothing written in perso.ind.
+Transcript written in perso.ilg.
